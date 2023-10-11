@@ -1,2 +1,2 @@
 #!/bin/bash
-find [[:alpha:]]* /etc/ssh/ssh_config
+grep '[[:alpha:]]*' /etc/ssh/ssh_config
