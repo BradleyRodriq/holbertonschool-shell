@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $USER | tr -r ':' '\n' | wc -1
+echo $USER | tr -r ':' '\n' | wc -l
