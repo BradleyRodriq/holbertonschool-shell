@@ -1,0 +1,14 @@
+./.git/branches
+./.git/refs/tags
+./.git/objects/info
+./basics/tmp/iamafile
+./basics/tree
+./basics/welcome/to/school
+./permissions/hello
+./permissions/olleh
+./permissions/my_dir
+./permissions/link
+./permissions/permissions
+./io_redirections_and_filters/empty_file
+./io_redirections_and_filters/empty/empty_file
+./empty
